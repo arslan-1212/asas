@@ -1,0 +1,24 @@
+@media only screen and (max-width: 800px) {
+  .background_color {
+    background-color: #cae4e8 !important;
+    height: 100% !important;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .bg_nav_open {
+    background: #cae4e8 !important;
+  }
+  /* .graph_size {
+    height: 50vh !important;
+  } */
+  
+}
+
+/* .graph_size {
+  height: 100% !important;
+} */
+
+.background_color {
+  background-color: #cae4e8 !important;
+  height: 100% !important;
+}
